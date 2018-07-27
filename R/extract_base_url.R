@@ -20,19 +20,3 @@ extract_base_url <- function(df, page) {
   df
 
 }
-
-
-
-# x <- data.frame(page=c("http://www.chevron.com",
-# "www.inside.com?media=fun",
-# "www.inside.com/404.aspx",
-# "wwww.uber.net",
-# "www.inside.com?media=fun$wt.id=score"
-# ))
-
-x <- data.frame(page=c("http://www.chevron.com",
-"www.inside.com?media=fun",
-"www.inside.com/404.aspx",
-"wwww.uber.net",
-"www.inside.com?media=fun?wt.id=score"
-))

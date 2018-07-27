@@ -26,12 +26,3 @@ extract_article_date <- function(df, page) {
 }
 
 
-
-# x <- data.frame(page=c("http://www.chevron.com",
-# "www.inside.com?media=fun",
-# "www.inside.com/404.aspx",
-# "wwww.uber.net",
-# "news.chevron.com/corporate/news/article/04102018_2017annualreport.aspx",
-# "tv.chevron.com/default.aspx?channel=8&media=20180213_104112"),
-#  stringsAsFactors=FALSE)
-

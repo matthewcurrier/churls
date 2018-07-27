@@ -25,9 +25,3 @@ extract_media_id <- function(df, page) {
 
 
 }
-
-
-
-# x <- data.frame(page=c("http://www.chevron.com", "www.inside.com?media=fun", "www.inside.com/404.aspx", "wwww.uber.net"))
-
-
