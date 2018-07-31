@@ -17,7 +17,7 @@ calculate_time_difference <- function(df, date1, date2) {
     df
 }
 
-# x <- data.frame(d1=as.Date("2018-03-01", "%Y-%m-%d"), d2=as.Date("2018-03-11", "%Y-%m-%d"))
+
 # seq1 <- seq(as.Date("2018-01-01"), as.Date("2018-02-04"), by="days")
 # seq2 <- seq(as.Date("2018-01-14"), as.Date("2018-02-17"), by="days")
 
